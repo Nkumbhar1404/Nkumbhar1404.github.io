@@ -7,7 +7,7 @@ export const personalInfo = {
   tagline: "Building innovative solutions with modern technologies",
   email: "nkumbhar1404@gmail.com",
   phone: "+91 8956345230",
-  location: "Jalgaon, Maharashtra, India",
+  location: "Pune, Maharashtra, India",
   github: "https://github.com/Nkumbhar1404",
   linkedin: "https://www.linkedin.com/in/nandkishorkumbhar",
   resumeUrl: "#"
@@ -96,7 +96,7 @@ export const experience = [
     company: "Hitachi Astemo",
     role: "Industrial Automation Intern",
     duration: "Oct 2024 – Nov 2024",
-    location: "Pune, Maharashtra",
+    location: "Jalgaon, Maharashtra",
     description: "Gained practical knowledge of industrial automation, control systems, and real-time production monitoring. Worked in the Braking System manufacturing division focusing on PLCs for monitoring and controlling production processes.",
     responsibilities: [
       "Worked with PLC systems for production monitoring",
