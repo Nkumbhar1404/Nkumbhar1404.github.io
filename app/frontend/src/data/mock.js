@@ -96,7 +96,7 @@ export const experience = [
     company: "Hitachi Astemo",
     role: "Industrial Automation Intern",
     duration: "Oct 2024 – Nov 2024",
-    location: "Jalgaon, Maharashtra",
+    location: "Pune, Maharashtra",
     description: "Gained practical knowledge of industrial automation, control systems, and real-time production monitoring. Worked in the Braking System manufacturing division focusing on PLCs for monitoring and controlling production processes.",
     responsibilities: [
       "Worked with PLC systems for production monitoring",
