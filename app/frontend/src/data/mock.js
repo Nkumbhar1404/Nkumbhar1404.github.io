@@ -66,7 +66,7 @@ export const projects = [
       "Database migrations with EF Core",
       "Responsive UI design"
     ],
-    date: "Nov 2024",
+    date: "Nov 2025",
     githubUrl: "https://github.com/Nkumbhar1404",
     liveUrl: null,
     category: "Web Development"
@@ -110,7 +110,7 @@ export const experience = [
     id: 2,
     company: "Friends Union for Energising Lives (FUEL)",
     role: "Core Java Training",
-    duration: "Dec 2023 – Feb 2024",
+    duration: "Jan 2025 – Feb 2025",
     location: "Pune, Maharashtra",
     description: "Completed comprehensive Core Java programming training with certification. Gained hands-on experience in Object-Oriented Programming concepts, Collections Framework, and JDBC for database connectivity.",
     responsibilities: [
@@ -128,28 +128,28 @@ export const certifications = [
     id: 1,
     name: "Core Java",
     issuer: "FUEL (Friends Union for Energising Lives)",
-    date: "2024",
+    date: "2025",
     credentialUrl: "#"
   },
   {
     id: 2,
     name: "Learning Java 11",
     issuer: "LinkedIn Learning",
-    date: "2024",
+    date: "2025",
     credentialUrl: "#"
   },
   {
     id: 3,
     name: "C# Programming",
     issuer: "FreeCodeCamp",
-    date: "2024",
+    date: "2025",
     credentialUrl: "#"
   },
   {
     id: 4,
     name: "SQL Programming",
     issuer: "LinkedIn Learning",
-    date: "2024",
+    date: "2025           ",
     credentialUrl: "#"
   }
 ];
